@@ -1,5 +1,5 @@
 % Module: proj2
-% Author: Gayda Mutahar, 1048309, gmutahar@student.unimelb.edu.au
+% Author: Gayda Mutahar
 % Last update: May, 31 2020
 % Purpose: Prolog Program to slove a Fill-in puzzle
 % COMP90048 Declarative Programming, Semester 1 2020, Project 2
